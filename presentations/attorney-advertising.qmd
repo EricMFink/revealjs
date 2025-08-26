@@ -13,7 +13,7 @@ format:
 
 ## Life's Short
 
-![](img/LawyerAds/life-is-short.jpg)
+![](../img/LawyerAds/life-is-short.jpg)
 
 ### Corri Courts Controversy
 
@@ -21,15 +21,15 @@ format:
 
 ## Cupid, Draw Back Your Bow
 
-![](img/LawyerAds/cupid.jpg)
+![](../img/LawyerAds/cupid.jpg)
 
 ## Surprise!
 
-![](img/LawyerAds/surprise.jpg){width=80%}
+![](../img/LawyerAds/surprise.jpg){width=80%}
 
 ## Modesty Will Get You Nowhere
 
-![](img/LawyerAds/blount-law-firm.jpg)
+![](../img/LawyerAds/blount-law-firm.jpg)
 
 ## Tell Us How You Really Feel 
 
