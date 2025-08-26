@@ -1,2 +1,0 @@
-# revealjs
-reveal.js presentations
