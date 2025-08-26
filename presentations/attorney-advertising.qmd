@@ -11,51 +11,53 @@ format:
     output-file: attorney-advertising-revealjs.html
 ---
 
-## Life's Short
+## Life's Short 
 
-![](../img/LawyerAds/life-is-short.jpg)
+![](../img/life-is-short.jpg)
 
-### Corri Courts Controversy
+### Corri Courts Controversy 
 
 [Look at This Ad, but Don’t Get Any Ideas](https://www.nytimes.com/2007/05/13/weekinreview/13johnson.html)
 
-## Cupid, Draw Back Your Bow
+## Cupid, Draw Back Your Bow 
 
-![](../img/LawyerAds/cupid.jpg)
+![](../img/cupid.jpg)
 
-## Surprise!
+## Surprise! 
 
-![](../img/LawyerAds/surprise.jpg){width=80%}
+![](../img/surprise.jpg){width=80%}
 
-## Modesty Will Get You Nowhere
+## Modesty Will Get You Nowhere 
 
-![](../img/LawyerAds/blount-law-firm.jpg)
+![](../img/blount-law-firm.jpg)
 
-## Tell Us How You Really Feel 
+## Tell Us How You Really Feel  
 
-<iframe src="https:/drive.google.com/file/d/1GVdeU3q6tJC7Pzzm3VEdDXIX96YZHMoR/preview" width="640" height="480" allow="autoplay"></iframe>
+{{< video ../video/divorce-ez.mp4 width="640" height="480" >}}
 
-### Divorce EZ … or Not
+### Divorce EZ … or Not 
 
 [Divorce Lawyer's Commercial Goes Viral](https://www.sun-sentinel.com/news/fl-xpm-2010-09-24-fl-lawyer-viral-video-20100923-story.html)
+
+[Divorce EZ](http://divorceez.com/p/home)
 
 [Steven D. Miller](https://www.floridadivorceme.com/)
 
 ## What's in a Name? 
 
-<iframe src="https:/drive.google.com/file/d/1xgtHU7ljRbs9MayzFSyR2X-61ozWknEZ/preview" width="640" height="480" allow="autoplay"></iframe>
+{{< video ../video/dick-law-firm.mp4 width="640" height="480" >}}
 
-## Don't Mess with Texas
+## Don't Mess with Texas 
 
-<iframe src="https:/drive.google.com/file/d/1yCRmeOQ4yf-A5vW9peO_56yUbL-nHnol/preview" width="640" height="480" allow="autoplay"></iframe>
+{{< video ../video/texas-hammer.mp4 width="640" height="480" >}}
 
-## Machete
+## Machete 
 
-<iframe src="https:/drive.google.com/file/d/1rXihzAn4AuhKlmAr9UHqTz_CO_RqP94u/preview" width="640" height="480" allow="autoplay"></iframe>
+{{< video ../video/machete.mp4 width="640" height="480" >}}
 
-## Thanks Dan!
+## Thanks Dan! 
 
-<iframe src="https:/drive.google.com/file/d/1_AR3YmY87P-bB9nojuK00h9nypZkukfn/preview" width="640" height="480" allow="autoplay"></iframe>
+{{< video ../video/thanks-dan.mp4 width="640" height="480" >}}
 
 ### Hire Me, I Think Like a Criminal 
 

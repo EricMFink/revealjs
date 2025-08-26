@@ -24,7 +24,7 @@ website:
       - section: Contents
         contents:
         - text: Attorney Advertising
-          href: attorney-advertising.qmd
+          href: presentations/attorney-advertising.qmd
 
 format:
   html:
