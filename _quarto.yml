@@ -16,7 +16,7 @@ website:
           - text: Report an issue
             href:  https://github.com/EricMFink/Presentations/issues/new
           - text: View source code
-            href:  https://github.com/Presentations/CivPro
+            href:  https://github.com/Presentations
     collapse-level: 2
     contents: 
       - href: index.qmd
