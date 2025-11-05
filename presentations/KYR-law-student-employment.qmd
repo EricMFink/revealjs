@@ -2,8 +2,6 @@
 title: "Legal Rights for Law Student Residents, Interns, & Law Clerks"
 author: Eric M. Fink
 affiliation: Elon Law School 
-date: 6 November 2025
-date-format: "D MMMM YYYY"
 
 format:
   metropolis-revealjs: 
@@ -20,9 +18,7 @@ The information in this presentation is not intended to constitute legal advice 
 
 # Employment Law
 
-## Laws Applicable Only to Employees
-
-### Examples
+## Examples
 
 - Fair Labor Standards Act 
 - Family & Medical Leave Act
@@ -30,9 +26,7 @@ The information in this presentation is not intended to constitute legal advice 
 - ADA
 - Workers compensation 
 
-## Employee Status
-
-### Residencies & Internships 
+## Residencies & Internships
 
 > [A]n employment relationship is not created when the tangible and intangible benefits provided to the intern are greater than the intern's contribution to the employer's operation. 
 
@@ -42,9 +36,7 @@ _Glatt v. Fox Searchlight Pictures_ (2d Cir. 2015)
 
 _Wang v. Hearst Corp._, 877 F.3d 69 (2d Cir. 2017)
 
-***
-
-#### Primary Beneficiary Test
+### Primary Beneficiary Test
 
 Seven Factors: 
 
@@ -56,14 +48,12 @@ Seven Factors:
 - Extent to which the intern’s work complements, rather than displaces, the work of paid employees while providing significant educational benefits to the intern.
 - Extent to which the intern and the employer understand that the internship is conducted without entitlement to a paid job at the conclusion of the internship.
 
-***
-
-#### Primary Beneficiary Test 
+### Primary Beneficiary Test 
 
 - "Totality of circumstances"
 - No single factor is decisive
 
-### Internships with Government and Non-Profits
+## Internships with Government and Non-Profits
 
 - The FLSA expressly permits unpaid volunteers at public agencies.
 - The Department of Labor has consistently interpreted the FLSA to permit unpaid volunteers with private non-profit organizations.
