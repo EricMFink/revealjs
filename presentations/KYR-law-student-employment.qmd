@@ -5,7 +5,7 @@ affiliation: Elon Law School
 
 format:
   metropolis-revealjs: 
-    controls: false
+    controls: true
     navigation-mode: vertical
     slide-level: 3
     output-file: KYR-law-student-employment-revealjs.html
