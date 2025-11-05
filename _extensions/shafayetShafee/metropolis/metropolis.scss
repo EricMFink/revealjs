@@ -109,17 +109,12 @@ body.dark .reveal h6 {
 h1.title {
     font-variant: small-caps;
 }
-h1.subtitle {
+h2.subtitle {
     font-size: 2.2rem;
     padding-bottom:15px;
     border-bottom: 2px solid #EB811B;
 }
-.subtitle {
-    font-size: 2.2rem;
-    padding-bottom:15px;
-    border-bottom: 2px solid #EB811B;
-}
-h2.author, h3.date {
+h2.author, h3.institute {
     font-size: 1.7rem;
 }
 .quarto-title-author-name {
@@ -129,8 +124,9 @@ h2.author, h3.date {
 .author {
     font-size: 1.7em;
 }
-.date {
-    font-size: 1.7em;
+h4.date {
+    font-size: 1.3em;
+	border: none;
 }
 
 .level2 h1 {
