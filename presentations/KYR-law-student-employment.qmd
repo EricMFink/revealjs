@@ -9,8 +9,8 @@ format:
   metropolis-revealjs: 
     controls: false
     navigation-mode: vertical
-    slide-level: 4
-    output-file: data-trespass-revealjs.html
+    slide-level: 3
+    output-file: KYR-law-student-employment-revealjs.html
 
 ---
 
@@ -20,33 +20,15 @@ The information in this presentation is not intended to constitute legal advice 
 
 # Employment Law
 
-## Applicable Only to Employees
+## Laws Applicable Only to Employees
 
-### Federal 
+### Examples
 
-_Fair Labor Standards Act (Federal)_
-
-- Minimum wage and overtime
-
-_Family & Medical Leave Act_
-
-- Unlikely to apply because of limits on employer coverage and employee eligibility
-
-_EEO Laws_
-
+- Fair Labor Standards Act 
+- Family & Medical Leave Act
 - Civil Rights Act of 1964, Title VII
-	- Discrimination "because of ... race, color, religion, sex, or national origin"
-	- Includes pregnancy discrimination
 - ADA
-	- Disability discrimination and accommodations
-- Age Discrimination in Employment Act
-	- Only protects employees age 40 and over
-
-### State 
-
-- Wage payment laws
 - Workers compensation 
-- State EEO laws
 
 ## Employee Status
 
@@ -98,22 +80,12 @@ Seven Factors:
 - ADA
 	- Disability
 
-### Scope of Protection
-
-- Eligibility criteria and selection of participants
-- Terms and conditions of participation
-- Placements and assignments
-
-### Forms of Discrimination
-
-#### Unequal Terms and Conditions
+### Unequal Terms and Conditions
 
 - Disparate treatment
 - Disparate impact
 
-***
-
-#### Harassment
+### Harassment
 
 - Quid pro quo
 - Hostile environment
