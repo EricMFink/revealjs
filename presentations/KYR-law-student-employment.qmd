@@ -32,6 +32,8 @@ The information in this presentation is not intended to constitute legal advice 
 
 _Glatt v. Fox Searchlight Pictures_ (2d Cir. 2015)
 
+***
+
 > The internship may provide a direct benefit to the employer so long as the intern receives identifiable educational or vocational benefits in return.
 
 _Wang v. Hearst Corp._, 877 F.3d 69 (2d Cir. 2017)
@@ -79,6 +81,10 @@ Seven Factors:
 
 - Quid pro quo
 - Hostile environment
+
+***
+
+#### Harassment Defined
 
 > [Conduct] that is so severe, pervasive, and objectively offensive, and that so undermines and detracts from the victims’ educational experience, that the victims are effective denied equal access to an institution’s resources and opportunities.
 
