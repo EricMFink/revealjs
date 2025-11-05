@@ -1,6 +1,5 @@
 ---
-title: "Employment Law for Law Students"
-subtitle: "Residents, Interns, & Law Clerks"
+title: "Legal Rights for Law Student Residents, Interns, & Law Clerks"
 author: Eric M. Fink
 affiliation: Elon Law School 
 date: 6 November 2025
@@ -13,43 +12,45 @@ format:
     slide-level: 4
     output-file: data-trespass-revealjs.html
 
-
 ---
 
 # Disclaimer
 
 The information in this presentation is not intended to constitute legal advice and should not be relied upon in lieu of consultation with appropriate legal counsel.
 
-# Legal Rights for Law Student Residents, Interns, & Law Clerks 
+# Employment Law
 
-## Employment Law
+## Applicable Only to Employees
 
-### Applicable Only to Employees
+### Federal 
 
-#### Federal 
+_Fair Labor Standards Act (Federal)_
 
-- Fair Labor Standards Act (Federal)
-	- Minimum wage and overtime
-- Family & Medical Leave Act
-	- Unlikely to apply because of limits on employer coverage and employee eligibility
-- EEO Laws
-	- Civil Rights Act of 1964, Title VII
-		- Discrimination "because of ... race, color, religion, sex, or national origin"
-		- Includes pregnancy discrimination
-	- ADA
-		- Disability discrimination and accommodations
-	- Age Discrimination in Employment Act
-		- Only protects employees age 40 and over
+- Minimum wage and overtime
 
-#### State 
+_Family & Medical Leave Act_
+
+- Unlikely to apply because of limits on employer coverage and employee eligibility
+
+_EEO Laws_
+
+- Civil Rights Act of 1964, Title VII
+	- Discrimination "because of ... race, color, religion, sex, or national origin"
+	- Includes pregnancy discrimination
+- ADA
+	- Disability discrimination and accommodations
+- Age Discrimination in Employment Act
+	- Only protects employees age 40 and over
+
+### State 
 
 - Wage payment laws
 - Workers compensation 
 - State EEO laws
 
-### Employee Status
+## Employee Status
 
-#### Internships
+### Residencies & Internships 
 
 > [A]n employment relationship is not created when the tangible and intangible benefits provided to the intern are greater than the intern's contribution to the employer's operation. 
 
@@ -58,6 +59,8 @@ _Glatt v. Fox Searchlight Pictures_ (2d Cir. 2015)
 > The internship may provide a direct benefit to the employer so long as the intern receives identifiable educational or vocational benefits in return.
 
 _Wang v. Hearst Corp._, 877 F.3d 69 (2d Cir. 2017)
+
+***
 
 #### Primary Beneficiary Test
 
@@ -71,6 +74,8 @@ Seven Factors:
 - Extent to which the intern’s work complements, rather than displaces, the work of paid employees while providing significant educational benefits to the intern.
 - Extent to which the intern and the employer understand that the internship is conducted without entitlement to a paid job at the conclusion of the internship.
 
+***
+
 #### Primary Beneficiary Test 
 
 - "Totality of circumstances"
@@ -82,7 +87,9 @@ Seven Factors:
 - The Department of Labor has consistently interpreted the FLSA to permit unpaid volunteers with private non-profit organizations.
 	- But only those engaged in the organization’s charitable work, not commercial activity. _Tony & Susan Alamo Foundation v. Secretary of Labor_ (US 1985)
 
-## Laws Applicable to Students in Educational Programs 
+# Education Law
+
+## Anti-Discrimination Laws
 
 - Civil Rights Act of 1964, Title VI
 	- Race, color, national origin 
@@ -99,38 +106,45 @@ Seven Factors:
 
 ### Forms of Discrimination
 
-- Unequal Terms and Conditions
-	- Disparate treatment
-	- Disparate impact
-- Harassment
-	- Quid pro quo
-	- Hostile environment
+#### Unequal Terms and Conditions
 
-*** 
+- Disparate treatment
+- Disparate impact
 
-#### Harassment 
+***
+
+#### Harassment
+
+- Quid pro quo
+- Hostile environment
 
 > [Conduct] that is so severe, pervasive, and objectively offensive, and that so undermines and detracts from the victims’ educational experience, that the victims are effective denied equal access to an institution’s resources and opportunities.
 
 _Davis v. Monroe County Board of Education_ (U.S. 1999)
 
-### Title IX
+## Title IX
 
 > No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance.
 
-*** 
+### "On the basis of sex"
 
-#### "On the basis of sex"
+Department of Education Interpretation
 
-- Department of Education Interpretation
-	- 2024 Final Rule: "Discrimination on the basis of sex includes discrimination on the basis of sex stereotypes, sex characteristics, pregnancy or related conditions, sexual orientation, and gender identity."
-		- Vacated on 1st Amendment and Spending Clause grounds. _State of Tennessee v. Cardona_ (January 9, 2025 E.D. Tenn.)
-	- 2025 "Dear Colleague" letter: "The department will return to enforcing Title IX protections on the basis of biological sex in schools and on campuses."
+- 2024 Final Rule: "Discrimination on the basis of sex includes discrimination on the basis of sex stereotypes, sex characteristics, pregnancy or related conditions, sexual orientation, and gender identity."
+	- Vacated on 1st Amendment and Spending Clause grounds. _State of Tennessee v. Cardona_ (January 9, 2025 E.D. Tenn.)
+- 2025 "Dear Colleague" letter: "The department will return to enforcing Title IX protections on the basis of biological sex in schools and on campuses."
+
+# Other Legal Issues 
 
 ## Confidentiality & Conflicts of Interest
 
-- Law students working as residents, interns, or employees in legal practice settings are subject to the Rules of Professional Conduct. 
-- Common law or statutory duties of confidentiality and loyalty may also apply. 
-- Non-disclosure agreements or policies may also apply. 
+### Rules of Professional Conduct
+
+Law students working as residents, interns, or employees in legal practice settings are subject to the Rules of Professional Conduct, including the the rules on confidentiality and conflicts of interest. 
+
+### Duties Under Other Laws
+
+- Common law or statutory duties of confidentiality and loyalty
+- Non-disclosure agreements or policies 
 
 
