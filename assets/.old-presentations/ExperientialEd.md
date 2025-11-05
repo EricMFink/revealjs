@@ -452,7 +452,7 @@ Your school runs a study-abroad program
 ## Problem 2: Hear No Evil, Speak No Evil 
 
 - Is the university liable for the harassment when the perpetrators were also students?
-- Does the fact that the harassment occurred in a studyabroad program make a difference to the school's liability under Title IX?
+- Does the fact that the harassment occurred in a study abroad program make a difference to the school's liability under Title IX?
 
 *** 
 
