@@ -1,60 +1,5 @@
 [
   {
-    "objectID": "law-student-employment-revealjs.html#examples",
-    "href": "law-student-employment-revealjs.html#examples",
-    "title": "Know Your Rights",
-    "section": "Examples",
-    "text": "Examples\n\nFair Labor Standards Act\nFamily & Medical Leave Act\nCivil Rights Act of 1964, Title VII\nADA\nWorkers compensation",
-    "crumbs": [
-      "Contents",
-      "Law Student Residents, Interns, & Law Clerks"
-    ]
-  },
-  {
-    "objectID": "law-student-employment-revealjs.html#residencies-internships",
-    "href": "law-student-employment-revealjs.html#residencies-internships",
-    "title": "Know Your Rights",
-    "section": "Residencies & Internships",
-    "text": "Residencies & Internships",
-    "crumbs": [
-      "Contents",
-      "Law Student Residents, Interns, & Law Clerks"
-    ]
-  },
-  {
-    "objectID": "law-student-employment-revealjs.html#anti-discrimination-laws",
-    "href": "law-student-employment-revealjs.html#anti-discrimination-laws",
-    "title": "Know Your Rights",
-    "section": "Anti-Discrimination Laws",
-    "text": "Anti-Discrimination Laws\n\nCivil Rights Act of 1964, Title VI\n\nRace, color, national origin\n\nEducation Amendments of 1972, Title IX\n\nSex\n\nADA\n\nDisability",
-    "crumbs": [
-      "Contents",
-      "Law Student Residents, Interns, & Law Clerks"
-    ]
-  },
-  {
-    "objectID": "law-student-employment-revealjs.html#title-ix",
-    "href": "law-student-employment-revealjs.html#title-ix",
-    "title": "Know Your Rights",
-    "section": "Title IX",
-    "text": "Title IX\n\nNo person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance.",
-    "crumbs": [
-      "Contents",
-      "Law Student Residents, Interns, & Law Clerks"
-    ]
-  },
-  {
-    "objectID": "law-student-employment-revealjs.html#confidentiality-conflicts-of-interest",
-    "href": "law-student-employment-revealjs.html#confidentiality-conflicts-of-interest",
-    "title": "Know Your Rights",
-    "section": "Confidentiality & Conflicts of Interest",
-    "text": "Confidentiality & Conflicts of Interest",
-    "crumbs": [
-      "Contents",
-      "Law Student Residents, Interns, & Law Clerks"
-    ]
-  },
-  {
     "objectID": "revealjs.html#examples",
     "href": "revealjs.html#examples",
     "title": "Metropolis-Revealjs",
@@ -95,6 +40,61 @@
     "title": "Presentations",
     "section": "",
     "text": "CC Licenses\nKnow Your Rights: Demonstrations & Police Encounters:\nKnow Your Rights: Demonstrations & Police Encounters by Eric M. Fink is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
+  },
+  {
+    "objectID": "law-student-employment-revealjs.html#examples",
+    "href": "law-student-employment-revealjs.html#examples",
+    "title": "Know Your Rights",
+    "section": "Examples",
+    "text": "Examples\n\nWages & Hours\n\nFair Labor Standards Act\nState wage payment law\n\nAnti-Discrimination\n\nCivil Rights Act of 1964, Title VII\nADA\nFamily & Medical Leave Act\n\nHealth & Safety\n\nOSHA\nWorkers compensation",
+    "crumbs": [
+      "Contents",
+      "Law Student Residents, Interns, & Law Clerks"
+    ]
+  },
+  {
+    "objectID": "law-student-employment-revealjs.html#fair-labor-standards-act",
+    "href": "law-student-employment-revealjs.html#fair-labor-standards-act",
+    "title": "Know Your Rights",
+    "section": "Fair Labor Standards Act",
+    "text": "Fair Labor Standards Act",
+    "crumbs": [
+      "Contents",
+      "Law Student Residents, Interns, & Law Clerks"
+    ]
+  },
+  {
+    "objectID": "law-student-employment-revealjs.html#anti-discrimination",
+    "href": "law-student-employment-revealjs.html#anti-discrimination",
+    "title": "Know Your Rights",
+    "section": "Anti-Discrimination",
+    "text": "Anti-Discrimination",
+    "crumbs": [
+      "Contents",
+      "Law Student Residents, Interns, & Law Clerks"
+    ]
+  },
+  {
+    "objectID": "law-student-employment-revealjs.html#title-ix",
+    "href": "law-student-employment-revealjs.html#title-ix",
+    "title": "Know Your Rights",
+    "section": "Title IX",
+    "text": "Title IX\n\nNo person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance.",
+    "crumbs": [
+      "Contents",
+      "Law Student Residents, Interns, & Law Clerks"
+    ]
+  },
+  {
+    "objectID": "law-student-employment-revealjs.html#confidentiality-conflicts-of-interest",
+    "href": "law-student-employment-revealjs.html#confidentiality-conflicts-of-interest",
+    "title": "Know Your Rights",
+    "section": "Confidentiality & Conflicts of Interest",
+    "text": "Confidentiality & Conflicts of Interest",
+    "crumbs": [
+      "Contents",
+      "Law Student Residents, Interns, & Law Clerks"
+    ]
   },
   {
     "objectID": "presentations/attorney-advertising-revealjs.html#lifes-short",
