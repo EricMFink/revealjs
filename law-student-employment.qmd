@@ -25,11 +25,16 @@ The information in this presentation is not intended to constitute legal advice 
 
 ## Examples
 
-- Fair Labor Standards Act 
-- Family & Medical Leave Act
-- Civil Rights Act of 1964, Title VII
-- ADA
-- Workers compensation 
+- Wages & Hours
+	- Fair Labor Standards Act 
+	- State wage payment law
+- Anti-Discrimination
+	- Civil Rights Act of 1964, Title VII
+	- ADA
+	- Family & Medical Leave Act
+- Health & Safety 
+	- OSHA
+	- Workers compensation 
 
 ### Coverage
 
@@ -37,9 +42,9 @@ Depends on legal status as an employee
 
 - Some laws have additional conditions or exemptions
 
-## Residencies & Internships
+## Fair Labor Standards Act
 
-### Employee Status: Primary Beneficiary Test
+### Internships: Primary Beneficiary Test
 
 > [A]n employment relationship is not created when the tangible and intangible benefits provided to the intern are greater than the intern's contribution to the employer's operation. 
 
@@ -72,15 +77,17 @@ _Wang v. Hearst Corp._, 877 F.3d 69 (2d Cir. 2017)
 - The Department of Labor has consistently interpreted the FLSA to permit unpaid volunteers with private non-profit organizations.
 	- But only those engaged in the organization’s charitable work, not commercial activity. _Tony & Susan Alamo Foundation v. Secretary of Labor_ (US 1985)
 
-# Education Law
+## Anti-Discrimination
 
-## Anti-Discrimination Laws
+### Coverage
 
-- Civil Rights Act of 1964, Title VI
+- Civil Rights Act of 1964, Title VII (Employees)
+	- Race, color, religion, sex and national origin
+- Civil Rights Act of 1964, Title VI (Students)
 	- Race, color, national origin 
-- Education Amendments of 1972, Title IX
+- Education Amendments of 1972, Title IX (Students)
 	- Sex 
-- ADA
+- ADA (Employees & Students)
 	- Disability
 
 ### Unequal Terms and Conditions
@@ -97,7 +104,7 @@ _Wang v. Hearst Corp._, 877 F.3d 69 (2d Cir. 2017)
 
 > [Conduct] that is so severe, pervasive, and objectively offensive, and that so undermines and detracts from the victims’ educational experience, that the victims are effective denied equal access to an institution’s resources and opportunities.
 
-_Davis v. Monroe County Board of Education_ (U.S. 1999)
+_Davis v. Monroe County Board of Education_ (U.S. 1999) 
 
 ## Title IX
 
@@ -110,8 +117,6 @@ Department of Education Interpretation
 - 2024 Final Rule: "Discrimination on the basis of sex includes discrimination on the basis of sex stereotypes, sex characteristics, pregnancy or related conditions, sexual orientation, and gender identity."
 	- Vacated on 1st Amendment and Spending Clause grounds. _State of Tennessee v. Cardona_ (January 9, 2025 E.D. Tenn.)
 - 2025 "Dear Colleague" letter: "The department will return to enforcing Title IX protections on the basis of biological sex in schools and on campuses."
-
-# Other Legal Issues 
 
 ## Confidentiality & Conflicts of Interest
 
