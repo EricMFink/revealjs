@@ -1,20 +1,19 @@
 ---
-title: Know Your Rights
-subtitle: Law Student Residents, Interns, & Law Clerks
-author: Eric M. Fink
-institute: Elon Law School 
-date: 6 November 2025
-date-format: "D MMMM YYYY"
-
+title: "Metropolis-Revealjs"
+subtitle: "A reveal.js theme inspired by Beamer Metropolis Theme."
+institute: "University of Dhaka"
+author: Shafayet Khan Shafee
 format:
-  metropolis-revealjs: 
-    css: metropolis.css
-    controls: true
-    navigation-mode: vertical
-    incremental: true
-    slide-level: 4
-    output-file: law-student-employment-revealjs.html
-
+  metropolis-revealjs: default
+footer: <https://quarto.org>
+date: last-modified
+date-format: "DD MMM, YYYY"
+logo: metropolis_template_images/quarto.png
+execute: 
+  eval: true
+  echo: true
+slide-number: true
+embed-resources: true
 ---
 
 # Disclaimer
@@ -31,12 +30,6 @@ The information in this presentation is not intended to constitute legal advice 
 - ADA
 - Workers compensation 
 
-### Coverage
-
-Depends on legal status as an employee
-
-- Some laws have additional conditions or exemptions
-
 ## Residencies & Internships
 
 ### Employee Status: Primary Beneficiary Test
@@ -45,13 +38,13 @@ Depends on legal status as an employee
 
 _Glatt v. Fox Searchlight Pictures_ (2d Cir. 2015)
 
-### Primary Beneficiary Test
+#### Primary Beneficiary Test
 
 > The internship may provide a direct benefit to the employer so long as the intern receives identifiable educational or vocational benefits in return.
 
 _Wang v. Hearst Corp._, 877 F.3d 69 (2d Cir. 2017)
 
-### Primary Beneficiary Test: Factors 
+#### Primary Beneficiary Test: Factors  {.smaller}
 
 - Extent to which the intern and employer clearly understand that there is no expectation of compensation. Any promise of compensation, express or implied, suggests that the intern is an employee—and vice versa.
 - Extent to which the internship provides training similar to what would be given in an educational environment, including clinical and other hands-on training provided by educational institutions.
@@ -61,9 +54,9 @@ _Wang v. Hearst Corp._, 877 F.3d 69 (2d Cir. 2017)
 - Extent to which the intern’s work complements, rather than displaces, the work of paid employees while providing significant educational benefits to the intern.
 - Extent to which the intern and the employer understand that the internship is conducted without entitlement to a paid job at the conclusion of the internship.
 
-### Primary Beneficiary Test
+#### Primary Beneficiary Test
 
-- Totality of circumstances
+- "Totality of circumstances"
 - No single factor is decisive
 
 ### Internships with Government and Non-Profits
@@ -93,7 +86,7 @@ _Wang v. Hearst Corp._, 877 F.3d 69 (2d Cir. 2017)
 - Quid pro quo
 - Hostile environment
 
-### Harassment
+#### Harassment
 
 > [Conduct] that is so severe, pervasive, and objectively offensive, and that so undermines and detracts from the victims’ educational experience, that the victims are effective denied equal access to an institution’s resources and opportunities.
 
@@ -122,4 +115,4 @@ Law students working as residents, interns, or employees in legal practice setti
 ### Duties Under Other Laws
 
 - Common law or statutory duties of confidentiality and loyalty
-- Non-disclosure agreements or policies
+- Non-disclosure agreements or policies 
