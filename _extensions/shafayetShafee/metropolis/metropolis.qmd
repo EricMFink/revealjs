@@ -1,0 +1,40 @@
+---
+title: "Metropolis Revealjs"
+subtitle: "A reveal.js template for Quarto using Metropolis custom style."
+institute: "Elon University School of Law"
+author: Eric M. Fink
+format:
+  metropolis-revealjs: 
+    css: metropolis.css
+    controls: true
+    navigation-mode: vertical
+    incremental: true
+    slide-level: 4
+    output-file: metropolis-revealjs.html
+footer: <https://www.emfink.net/revealjs/presentations/filename.html>
+date: last-modified
+date-format: "DD MMM, YYYY"
+slide-number: true
+embed-resources: true
+---
+
+# Heading 1
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras consectetur pharetra orci, sed rutrum nulla fringilla non. 
+
+## Heading 2
+
+Sed ultrices ornare feugiat. Aliquam lobortis metus arcu. Donec vitae tincidunt risus. 
+
+### Heading 3
+
+> Sed condimentum, nisi nec convallis auctor, ipsum odio fringilla mi, in luctus ligula orci quis velit. Nam est arcu, maximus id vulputate quis, commodo vitae ante. 
+
+Author, _Source_ (date)
+
+#### Heading 4
+
+- Suspendisse consequat, 
+	- dolor non dapibus laoreet, 
+		- felis nisi rutrum odio, nec lobortis purus dolor ac elit. 
+- Quisque dictum nisl ac nibh sagittis, eu feugiat metus sollicitudin. 
