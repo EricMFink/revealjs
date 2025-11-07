@@ -1,102 +1,5 @@
 [
   {
-    "objectID": "presentations/law-student-employment-revealjs.html#examples",
-    "href": "presentations/law-student-employment-revealjs.html#examples",
-    "title": "Know Your Rights",
-    "section": "Examples",
-    "text": "Examples\n\nWages & Hours\n\nFair Labor Standards Act\nState wage payment law\n\nAnti-Discrimination\n\nCivil Rights Act of 1964, Title VII\nADA\nFamily & Medical Leave Act\n\nHealth & Safety\n\nOSHA\nWorkers compensation",
-    "crumbs": [
-      "Contents",
-      "Law Student Residents, Interns, & Law Clerks"
-    ]
-  },
-  {
-    "objectID": "presentations/law-student-employment-revealjs.html#fair-labor-standards-act",
-    "href": "presentations/law-student-employment-revealjs.html#fair-labor-standards-act",
-    "title": "Know Your Rights",
-    "section": "Fair Labor Standards Act",
-    "text": "Fair Labor Standards Act",
-    "crumbs": [
-      "Contents",
-      "Law Student Residents, Interns, & Law Clerks"
-    ]
-  },
-  {
-    "objectID": "presentations/law-student-employment-revealjs.html#anti-discrimination",
-    "href": "presentations/law-student-employment-revealjs.html#anti-discrimination",
-    "title": "Know Your Rights",
-    "section": "Anti-Discrimination",
-    "text": "Anti-Discrimination",
-    "crumbs": [
-      "Contents",
-      "Law Student Residents, Interns, & Law Clerks"
-    ]
-  },
-  {
-    "objectID": "presentations/law-student-employment-revealjs.html#title-ix",
-    "href": "presentations/law-student-employment-revealjs.html#title-ix",
-    "title": "Know Your Rights",
-    "section": "Title IX",
-    "text": "Title IX\n\nNo person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance.",
-    "crumbs": [
-      "Contents",
-      "Law Student Residents, Interns, & Law Clerks"
-    ]
-  },
-  {
-    "objectID": "presentations/law-student-employment-revealjs.html#confidentiality-conflicts-of-interest",
-    "href": "presentations/law-student-employment-revealjs.html#confidentiality-conflicts-of-interest",
-    "title": "Know Your Rights",
-    "section": "Confidentiality & Conflicts of Interest",
-    "text": "Confidentiality & Conflicts of Interest",
-    "crumbs": [
-      "Contents",
-      "Law Student Residents, Interns, & Law Clerks"
-    ]
-  },
-  {
-    "objectID": "revealjs.html#examples",
-    "href": "revealjs.html#examples",
-    "title": "Metropolis-Revealjs",
-    "section": "Examples",
-    "text": "Examples\n\nFair Labor Standards Act\nFamily & Medical Leave Act\nCivil Rights Act of 1964, Title VII\nADA\nWorkers compensation"
-  },
-  {
-    "objectID": "revealjs.html#residencies-internships",
-    "href": "revealjs.html#residencies-internships",
-    "title": "Metropolis-Revealjs",
-    "section": "Residencies & Internships",
-    "text": "Residencies & Internships\nEmployee Status: Primary Beneficiary Test\n\n[A]n employment relationship is not created when the tangible and intangible benefits provided to the intern are greater than the intern’s contribution to the employer’s operation.\n\nGlatt v. Fox Searchlight Pictures (2d Cir. 2015)\nPrimary Beneficiary Test\n\nThe internship may provide a direct benefit to the employer so long as the intern receives identifiable educational or vocational benefits in return.\n\nWang v. Hearst Corp., 877 F.3d 69 (2d Cir. 2017)\nPrimary Beneficiary Test: Factors\n\nExtent to which the intern and employer clearly understand that there is no expectation of compensation. Any promise of compensation, express or implied, suggests that the intern is an employee—and vice versa.\nExtent to which the internship provides training similar to what would be given in an educational environment, including clinical and other hands-on training provided by educational institutions.\nExtent to which the internship is tied to the intern’s formal education program by integrated coursework or receipt of academic credit.\nExtent to which the internship accommodates the intern’s academic commitments by corresponding to the academic calendar.\nExtent to which the internship’s duration is limited to the period in which the internship provides the intern with beneficial learning.\nExtent to which the intern’s work complements, rather than displaces, the work of paid employees while providing significant educational benefits to the intern.\nExtent to which the intern and the employer understand that the internship is conducted without entitlement to a paid job at the conclusion of the internship.\n\nPrimary Beneficiary Test\n\n“Totality of circumstances”\nNo single factor is decisive\n\nInternships with Government and Non-Profits\n\nThe FLSA expressly permits unpaid volunteers at public agencies.\nThe Department of Labor has consistently interpreted the FLSA to permit unpaid volunteers with private non-profit organizations.\n\nBut only those engaged in the organization’s charitable work, not commercial activity. Tony & Susan Alamo Foundation v. Secretary of Labor (US 1985)"
-  },
-  {
-    "objectID": "revealjs.html#anti-discrimination-laws",
-    "href": "revealjs.html#anti-discrimination-laws",
-    "title": "Metropolis-Revealjs",
-    "section": "Anti-Discrimination Laws",
-    "text": "Anti-Discrimination Laws\n\nCivil Rights Act of 1964, Title VI\n\nRace, color, national origin\n\nEducation Amendments of 1972, Title IX\n\nSex\n\nADA\n\nDisability\n\n\nUnequal Terms and Conditions\n\nDisparate treatment\nDisparate impact\n\nHarassment\n\nQuid pro quo\nHostile environment\n\nHarassment\n\n[Conduct] that is so severe, pervasive, and objectively offensive, and that so undermines and detracts from the victims’ educational experience, that the victims are effective denied equal access to an institution’s resources and opportunities.\n\nDavis v. Monroe County Board of Education (U.S. 1999)"
-  },
-  {
-    "objectID": "revealjs.html#title-ix",
-    "href": "revealjs.html#title-ix",
-    "title": "Metropolis-Revealjs",
-    "section": "Title IX",
-    "text": "Title IX\n\nNo person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance.\n\n“On the basis of sex”\nDepartment of Education Interpretation\n\n2024 Final Rule: “Discrimination on the basis of sex includes discrimination on the basis of sex stereotypes, sex characteristics, pregnancy or related conditions, sexual orientation, and gender identity.”\n\nVacated on 1st Amendment and Spending Clause grounds. State of Tennessee v. Cardona (January 9, 2025 E.D. Tenn.)\n\n2025 “Dear Colleague” letter: “The department will return to enforcing Title IX protections on the basis of biological sex in schools and on campuses.”"
-  },
-  {
-    "objectID": "revealjs.html#confidentiality-conflicts-of-interest",
-    "href": "revealjs.html#confidentiality-conflicts-of-interest",
-    "title": "Metropolis-Revealjs",
-    "section": "Confidentiality & Conflicts of Interest",
-    "text": "Confidentiality & Conflicts of Interest\nRules of Professional Conduct\nLaw students working as residents, interns, or employees in legal practice settings are subject to the Rules of Professional Conduct, including the the rules on confidentiality and conflicts of interest.\nDuties Under Other Laws\n\nCommon law or statutory duties of confidentiality and loyalty\nNon-disclosure agreements or policies"
-  },
-  {
-    "objectID": "assets/CC Licenses.html",
-    "href": "assets/CC Licenses.html",
-    "title": "Presentations",
-    "section": "",
-    "text": "CC Licenses\nKnow Your Rights: Demonstrations & Police Encounters:\nKnow Your Rights: Demonstrations & Police Encounters by Eric M. Fink is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
-  },
-  {
     "objectID": "presentations/attorney-advertising-revealjs.html#lifes-short",
     "href": "presentations/attorney-advertising-revealjs.html#lifes-short",
     "title": "Attorney Advertising",
@@ -204,6 +107,68 @@
     "crumbs": [
       "Contents",
       "Attorney Advertising"
+    ]
+  },
+  {
+    "objectID": "assets/CC Licenses.html",
+    "href": "assets/CC Licenses.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "CC Licenses\nKnow Your Rights: Demonstrations & Police Encounters:\nKnow Your Rights: Demonstrations & Police Encounters by Eric M. Fink is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
+  },
+  {
+    "objectID": "presentations/law-student-employment-revealjs.html#examples",
+    "href": "presentations/law-student-employment-revealjs.html#examples",
+    "title": "Know Your Rights",
+    "section": "Examples",
+    "text": "Examples\n\nWages & Hours\n\nFair Labor Standards Act\nState wage payment law\n\nAnti-Discrimination\n\nCivil Rights Act of 1964, Title VII\nADA\nFamily & Medical Leave Act\n\nHealth & Safety\n\nOSHA\nWorkers compensation",
+    "crumbs": [
+      "Contents",
+      "Law Student Residents, Interns, & Law Clerks"
+    ]
+  },
+  {
+    "objectID": "presentations/law-student-employment-revealjs.html#fair-labor-standards-act",
+    "href": "presentations/law-student-employment-revealjs.html#fair-labor-standards-act",
+    "title": "Know Your Rights",
+    "section": "Fair Labor Standards Act",
+    "text": "Fair Labor Standards Act",
+    "crumbs": [
+      "Contents",
+      "Law Student Residents, Interns, & Law Clerks"
+    ]
+  },
+  {
+    "objectID": "presentations/law-student-employment-revealjs.html#anti-discrimination",
+    "href": "presentations/law-student-employment-revealjs.html#anti-discrimination",
+    "title": "Know Your Rights",
+    "section": "Anti-Discrimination",
+    "text": "Anti-Discrimination",
+    "crumbs": [
+      "Contents",
+      "Law Student Residents, Interns, & Law Clerks"
+    ]
+  },
+  {
+    "objectID": "presentations/law-student-employment-revealjs.html#title-ix",
+    "href": "presentations/law-student-employment-revealjs.html#title-ix",
+    "title": "Know Your Rights",
+    "section": "Title IX",
+    "text": "Title IX\n\nNo person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance.",
+    "crumbs": [
+      "Contents",
+      "Law Student Residents, Interns, & Law Clerks"
+    ]
+  },
+  {
+    "objectID": "presentations/law-student-employment-revealjs.html#confidentiality-conflicts-of-interest",
+    "href": "presentations/law-student-employment-revealjs.html#confidentiality-conflicts-of-interest",
+    "title": "Know Your Rights",
+    "section": "Confidentiality & Conflicts of Interest",
+    "text": "Confidentiality & Conflicts of Interest",
+    "crumbs": [
+      "Contents",
+      "Law Student Residents, Interns, & Law Clerks"
     ]
   }
 ]

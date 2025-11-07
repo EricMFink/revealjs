@@ -6,11 +6,11 @@
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-1fe81d0376b2c50856e68e651e390326.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/quarto-contrib/jquery-3.6.3/jquery-3.6.3.min.js"></script>
 <script src="site_libs/quarto-contrib/code-fullscreen-1.0.0/code-fullscreen.js" defer="true"></script>
 <link href="site_libs/quarto-contrib/code-fullscreen-1.0.0/code-fullscreen.css" rel="stylesheet"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.7.32">
+  <meta name="generator" content="quarto-1.8.23">
 
   <meta name="author" content="Eric M. Fink">
   <meta name="dcterms.date" content="2025-11-06">
@@ -33,7 +33,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-d81bfb0bf5def04c5bf7bdec5b19ca2e.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-7530d3224b4c69ae96cbf9abd302c720.css">
   <link rel="stylesheet" href="metropolis.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -161,11 +161,22 @@ Eric M. Fink
 <section id="examples" class="title-slide slide level2 center">
 <h2>Examples</h2>
 <ul>
+<li class="fragment">Wages &amp; Hours
+<ul>
 <li class="fragment">Fair Labor Standards Act</li>
-<li class="fragment">Family &amp; Medical Leave Act</li>
+<li class="fragment">State wage payment law</li>
+</ul></li>
+<li class="fragment">Anti-Discrimination
+<ul>
 <li class="fragment">Civil Rights Act of 1964, Title VII</li>
 <li class="fragment">ADA</li>
+<li class="fragment">Family &amp; Medical Leave Act</li>
+</ul></li>
+<li class="fragment">Health &amp; Safety
+<ul>
+<li class="fragment">OSHA</li>
 <li class="fragment">Workers compensation</li>
+</ul></li>
 </ul>
 </section>
 <section id="coverage" class="title-slide slide level3 center">
@@ -177,12 +188,12 @@ Eric M. Fink
 </section>
 
 
-<section id="residencies-internships" class="title-slide slide level2 center">
-<h2>Residencies &amp; Internships</h2>
+<section id="fair-labor-standards-act" class="title-slide slide level2 center">
+<h2>Fair Labor Standards Act</h2>
 
 </section>
-<section id="employee-status-primary-beneficiary-test" class="title-slide slide level3 center">
-<h3>Employee Status: Primary Beneficiary Test</h3>
+<section id="internships-primary-beneficiary-test" class="title-slide slide level3 center">
+<h3>Internships: Primary Beneficiary Test</h3>
 <blockquote>
 <p>[A]n employment relationship is not created when the tangible and intangible benefits provided to the intern are greater than the intern’s contribution to the employer’s operation.</p>
 </blockquote>
@@ -229,29 +240,33 @@ Eric M. Fink
 </ul>
 </section>
 
-</section>
-<section>
-<section id="education-law" class="title-slide slide level1 center">
-<h1>Education Law</h1>
+
+<section id="anti-discrimination" class="title-slide slide level2 center">
+<h2>Anti-Discrimination</h2>
 
 </section>
-<section id="anti-discrimination-laws" class="title-slide slide level2 center">
-<h2>Anti-Discrimination Laws</h2>
+<section id="coverage-1" class="title-slide slide level3 center">
+<h3>Coverage</h3>
 <ul>
-<li class="fragment">Civil Rights Act of 1964, Title VI
+<li class="fragment">Civil Rights Act of 1964, Title VII (Employees)
+<ul>
+<li class="fragment">Race, color, religion, sex and national origin</li>
+</ul></li>
+<li class="fragment">Civil Rights Act of 1964, Title VI (Students)
 <ul>
 <li class="fragment">Race, color, national origin</li>
 </ul></li>
-<li class="fragment">Education Amendments of 1972, Title IX
+<li class="fragment">Education Amendments of 1972, Title IX (Students)
 <ul>
 <li class="fragment">Sex</li>
 </ul></li>
-<li class="fragment">ADA
+<li class="fragment">ADA (Employees &amp; Students)
 <ul>
 <li class="fragment">Disability</li>
 </ul></li>
 </ul>
 </section>
+
 <section id="unequal-terms-and-conditions" class="title-slide slide level3 center">
 <h3>Unequal Terms and Conditions</h3>
 <ul>
@@ -295,12 +310,7 @@ Eric M. Fink
 </ul>
 </section>
 
-</section>
-<section>
-<section id="other-legal-issues" class="title-slide slide level1 center">
-<h1>Other Legal Issues</h1>
 
-</section>
 <section id="confidentiality-conflicts-of-interest" class="title-slide slide level2 center">
 <h2>Confidentiality &amp; Conflicts of Interest</h2>
 
@@ -510,7 +520,7 @@ Eric M. Fink
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -584,13 +594,14 @@ Eric M. Fink
           e.clearSelection();
         }
         const getTextToCopy = function(trigger) {
-            const codeEl = trigger.previousElementSibling.cloneNode(true);
-            for (const childEl of codeEl.children) {
-              if (isCodeAnnotation(childEl)) {
-                childEl.remove();
-              }
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
             }
-            return codeEl.innerText;
+          }
+          return codeEl.innerText;
         }
         const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
           text: getTextToCopy
