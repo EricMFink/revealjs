@@ -5,8 +5,10 @@ author: Eric M. Fink
 
 format:
   metropolis-revealjs: 
-    controls: false
+    css: metropolis.css
+    controls: true
     navigation-mode: vertical
+    incremental: true
     slide-level: 3
     output-file: attorney-advertising-revealjs.html
 ---
