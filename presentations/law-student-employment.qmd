@@ -26,15 +26,15 @@ The information in this presentation is not intended to constitute legal advice 
 ## Examples
 
 - Wages & Hours
-	- Fair Labor Standards Act 
-	- State wage payment law
+    - Fair Labor Standards Act 
+    - State wage payment law
 - Anti-Discrimination
-	- Civil Rights Act of 1964, Title VII
-	- ADA
-	- Family & Medical Leave Act
+    - Civil Rights Act of 1964, Title VII
+    - ADA
+    - Family & Medical Leave Act
 - Health & Safety 
-	- OSHA
-	- Workers compensation 
+    - OSHA
+    - Workers compensation 
 
 ### Coverage
 
@@ -75,20 +75,20 @@ _Wang v. Hearst Corp._, 877 F.3d 69 (2d Cir. 2017)
 
 - The FLSA expressly permits unpaid volunteers at public agencies.
 - The Department of Labor has consistently interpreted the FLSA to permit unpaid volunteers with private non-profit organizations.
-	- But only those engaged in the organization’s charitable work, not commercial activity. _Tony & Susan Alamo Foundation v. Secretary of Labor_ (US 1985)
+    - But only those engaged in the organization’s charitable work, not commercial activity. _Tony & Susan Alamo Foundation v. Secretary of Labor_ (US 1985)
 
 ## Anti-Discrimination
 
 ### Coverage
 
 - Civil Rights Act of 1964, Title VII (Employees)
-	- Race, color, religion, sex and national origin
+    - Race, color, religion, sex and national origin
 - Civil Rights Act of 1964, Title VI (Students)
-	- Race, color, national origin 
+    - Race, color, national origin 
 - Education Amendments of 1972, Title IX (Students)
-	- Sex 
+    - Sex 
 - ADA (Employees & Students)
-	- Disability
+    - Disability
 
 ### Unequal Terms and Conditions
 
@@ -115,7 +115,7 @@ _Davis v. Monroe County Board of Education_ (U.S. 1999)
 Department of Education Interpretation
 
 - 2024 Final Rule: "Discrimination on the basis of sex includes discrimination on the basis of sex stereotypes, sex characteristics, pregnancy or related conditions, sexual orientation, and gender identity."
-	- Vacated on 1st Amendment and Spending Clause grounds. _State of Tennessee v. Cardona_ (January 9, 2025 E.D. Tenn.)
+    - Vacated on 1st Amendment and Spending Clause grounds. _State of Tennessee v. Cardona_ (January 9, 2025 E.D. Tenn.)
 - 2025 "Dear Colleague" letter: "The department will return to enforcing Title IX protections on the basis of biological sex in schools and on campuses."
 
 ## Confidentiality & Conflicts of Interest

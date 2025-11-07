@@ -6,10 +6,12 @@ institution: Elon Law School
 
 format:
   metropolis-revealjs: 
-    controls: false
-    slide-level: 4
+    css: metropolis.css
+    controls: true
     navigation-mode: vertical
-	output-file: kyr-demos-revealjs.html
+    incremental: true
+    slide-level: 3
+    output-file: kyr-demos-revealjs.html
 ---
 
 ## Disclaimer 
