@@ -1,0 +1,148 @@
+---
+title: Federal Employment Law
+subtitle: 2026 NCBA Fundamentals of Employment Law CLE
+author: Eric M. Fink
+institute: Elon Law School 
+date: 18 February 2026
+date-format: "D MMMM YYYY"
+
+format:
+  metropolis-revealjs: 
+    css: metropolis.css
+    controls: true
+    navigation-mode: vertical
+    incremental: true
+    slide-level: 4
+    output-file: ncba-federal-employment-law-revealjs.html
+
+---
+
+# Disclaimer
+
+The information in this presentation is not intended to constitute legal advice and should not be relied upon in lieu of consultation with appropriate legal counsel.
+
+# Federal Employment Laws
+
+## Statutes
+
+- Equal Employment Opportunity
+    - Civil Rights Act of 1964, Title VII
+    - Age Discrimination in Employment Act
+    - Americans with Disabilities Act
+    - GINA
+    - Family & Medical Leave Act
+- Wages & Hours
+    - Fair Labor Standards Act 
+
+# Issues 
+
+## Coverage
+
+### Employees 
+
+Depends on legal status as an employee
+
+#### Title VII 
+
+42 U.S.C. sec. 2000e(f)
+
+> "an individual employed by an employer"
+
+### Employers
+
+#### Employer size
+
+Title VII, 42 U.S.C. sec. 2000e(b)
+
+- Fifteen or more employees for each working day in each of twenty or more calendar weeks in the current or preceding calendar year
+	- Includes agents of employer
+
+#### Joint employers
+
+# EEO Laws
+
+## Title VII
+
+### Scope 
+
+42 U.S.C. sec. 2000e-2. [Section 703]
+
+> (a\) Employer practices
+> 
+> It shall be an unlawful employment practice for an employer -
+
+> > (1\) to fail or refuse to hire or to discharge any individual, or otherwise to discriminate against any individual with respect to his compensation, terms, conditions, or privileges of employment, because of such individual's race, color, religion, sex, or national origin; or
+> > 
+> > (2\) to limit, segregate, or classify his employees or applicants for employment in any way which would deprive or tend to deprive any individual of employment opportunities or otherwise adversely affect his status as an employee, because of such individual's race, color, religion, sex, or national origin.
+
+### Sex
+
+Includes pregnancy, childbirth, or related medical conditions. 42 U.S.C. sec. 2000e(k)
+
+#### SEX STEREOTYPES
+
+#### SEXUAL ORIENTATION & GENDER IDENTITY
+
+### Religion 
+
+42 U.S.C. sec. 2000e(j)
+
+> The term "religion" includes all aspects of religious observance and practice, as well as belief, unless an employer demonstrates that he is unable to reasonably accommodate to an employee's or prospective employee's religious observance or practice without undue hardship on the conduct of the employer's business.
+
+#### Ministerial exemption
+
+42 U.S.C. sec. 2000e-1
+
+> a religious corporation, association, educational institution, or society with respect to the employment of individuals of a particular religion to perform work connected with the carrying on by such corporation, association, educational institution, or society of its activities
+
+
+
+
+### Discrimination
+
+#### Disparate Treatment
+
+#### Disparate Impact
+
+Burden of Proof, sec. 2000e-2(k)
+
+Test Scores, sec. 2000e-2(l)
+
+#### Harassment
+
+- Quid pro quo
+- Hostile environment
+- DEFINITION UNDER TITLE VII
+
+#### Retaliation 
+
+sec. 2000e-3
+
+### Procedures & Remedies
+
+#### EEOC Charge 
+
+42 U.S.C. 2000e-5(b)
+
+Timing: 
+
+- Filed within 180 days of alleged unlawful employment practice
+	- If initially instituted with state or local agency, earlier of: 
+		- 300 days of alleged unlawful employment practice, or 
+		- 30 days after receiving notice that the State or local agency has terminated the proceedings under the State or local law
+- Served on employer within 10 days of filing
+
+42 U.S.C. 2000e-5(e)
+
+
+#### State or Local Agency 
+
+
+
+#### Civil Suit by EEOC or Individual
+
+42 U.S.C. 2000e-5(f)
+
+#### Remedies 
+
+42 U.S.C. 2000e-5(g)

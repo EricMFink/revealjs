@@ -25,8 +25,8 @@ website:
         contents:
         - text: Attorney Advertising
           href: presentations/attorney-advertising.qmd
-        - text: Law Student Residents, Interns, & Law Clerks
-          href: presentations/law-student-employment.qmd
+        - text: NCBA Fundamentals of Employment Law 
+          href: presentations/ncba-federal-employment-law.qmd
 
 format:
   html:
