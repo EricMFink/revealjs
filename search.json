@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "presentations/law-student-employment-revealjs.html#examples",
+    "href": "presentations/law-student-employment-revealjs.html#examples",
+    "title": "Know Your Rights",
+    "section": "Examples",
+    "text": "Examples\n\nWages & Hours\n\nFair Labor Standards Act\nState wage payment law\n\nAnti-Discrimination\n\nCivil Rights Act of 1964, Title VII\nADA\nFamily & Medical Leave Act\n\nHealth & Safety\n\nOSHA\nWorkers compensation"
+  },
+  {
+    "objectID": "presentations/law-student-employment-revealjs.html#fair-labor-standards-act",
+    "href": "presentations/law-student-employment-revealjs.html#fair-labor-standards-act",
+    "title": "Know Your Rights",
+    "section": "Fair Labor Standards Act",
+    "text": "Fair Labor Standards Act"
+  },
+  {
+    "objectID": "presentations/law-student-employment-revealjs.html#anti-discrimination",
+    "href": "presentations/law-student-employment-revealjs.html#anti-discrimination",
+    "title": "Know Your Rights",
+    "section": "Anti-Discrimination",
+    "text": "Anti-Discrimination"
+  },
+  {
+    "objectID": "presentations/law-student-employment-revealjs.html#title-ix",
+    "href": "presentations/law-student-employment-revealjs.html#title-ix",
+    "title": "Know Your Rights",
+    "section": "Title IX",
+    "text": "Title IX\n\nNo person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance."
+  },
+  {
+    "objectID": "presentations/law-student-employment-revealjs.html#confidentiality-conflicts-of-interest",
+    "href": "presentations/law-student-employment-revealjs.html#confidentiality-conflicts-of-interest",
+    "title": "Know Your Rights",
+    "section": "Confidentiality & Conflicts of Interest",
+    "text": "Confidentiality & Conflicts of Interest"
+  },
+  {
     "objectID": "presentations/attorney-advertising-revealjs.html#lifes-short",
     "href": "presentations/attorney-advertising-revealjs.html#lifes-short",
     "title": "Attorney Advertising",
@@ -117,58 +152,101 @@
     "text": "CC Licenses\nKnow Your Rights: Demonstrations & Police Encounters:\nKnow Your Rights: Demonstrations & Police Encounters by Eric M. Fink is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
   },
   {
-    "objectID": "presentations/law-student-employment-revealjs.html#examples",
-    "href": "presentations/law-student-employment-revealjs.html#examples",
-    "title": "Know Your Rights",
-    "section": "Examples",
-    "text": "Examples\n\nWages & Hours\n\nFair Labor Standards Act\nState wage payment law\n\nAnti-Discrimination\n\nCivil Rights Act of 1964, Title VII\nADA\nFamily & Medical Leave Act\n\nHealth & Safety\n\nOSHA\nWorkers compensation",
+    "objectID": "presentations/ncba-federal-employment-law-revealjs.html#statutes",
+    "href": "presentations/ncba-federal-employment-law-revealjs.html#statutes",
+    "title": "Federal Employment Law",
+    "section": "Statutes",
+    "text": "Statutes\n\nEqual Employment Opportunity\n\nCivil Rights Act of 1964, Title VII\nAge Discrimination in Employment Act\nAmericans with Disabilities Act\nGINA\nFamily & Medical Leave Act\n\nWages & Hours\n\nFair Labor Standards Act"
+  },
+  {
+    "objectID": "presentations/ncba-federal-employment-law-revealjs.html#coverage",
+    "href": "presentations/ncba-federal-employment-law-revealjs.html#coverage",
+    "title": "Federal Employment Law",
+    "section": "Coverage",
+    "text": "Coverage"
+  },
+  {
+    "objectID": "presentations/ncba-federal-employment-law-revealjs.html#title-vii-1",
+    "href": "presentations/ncba-federal-employment-law-revealjs.html#title-vii-1",
+    "title": "Federal Employment Law",
+    "section": "Title VII",
+    "text": "Title VII"
+  },
+  {
+    "objectID": "presentations/employment-law.html#employment-as-private-government",
+    "href": "presentations/employment-law.html#employment-as-private-government",
+    "title": "Employment Law:",
+    "section": "Employment as Private Government",
+    "text": "Employment as Private Government\n\nImagine a government that assigns almost everyone a superior whom they must obey. Although superiors give most inferiors a routine to follow, there is no rule of law. Orders may be arbitrary and can change at any time, without prior notice or opportunity to appeal. Superiors are unaccountable to those they order around. They are neither elected nor removable by their inferiors. Inferiors have no right to complain in court about how they are being treated, except in a few narrowly defined cases. They also have no right to be consulted about the orders they are given.\n\nElizabeth Anderson, Private Government: How Employers Rule Our Lives (and Why We Don’t Talk about It)",
     "crumbs": [
       "Contents",
-      "Law Student Residents, Interns, & Law Clerks"
+      "Introduction to Employment Law"
     ]
   },
   {
-    "objectID": "presentations/law-student-employment-revealjs.html#fair-labor-standards-act",
-    "href": "presentations/law-student-employment-revealjs.html#fair-labor-standards-act",
-    "title": "Know Your Rights",
-    "section": "Fair Labor Standards Act",
-    "text": "Fair Labor Standards Act",
+    "objectID": "presentations/employment-law.html#the-employment-relationship",
+    "href": "presentations/employment-law.html#the-employment-relationship",
+    "title": "Employment Law:",
+    "section": "The Employment Relationship",
+    "text": "The Employment Relationship",
     "crumbs": [
       "Contents",
-      "Law Student Residents, Interns, & Law Clerks"
+      "Introduction to Employment Law"
     ]
   },
   {
-    "objectID": "presentations/law-student-employment-revealjs.html#anti-discrimination",
-    "href": "presentations/law-student-employment-revealjs.html#anti-discrimination",
-    "title": "Know Your Rights",
-    "section": "Anti-Discrimination",
-    "text": "Anti-Discrimination",
+    "objectID": "presentations/employment-law.html#termination-of-employment",
+    "href": "presentations/employment-law.html#termination-of-employment",
+    "title": "Employment Law:",
+    "section": "Termination of Employment",
+    "text": "Termination of Employment",
     "crumbs": [
       "Contents",
-      "Law Student Residents, Interns, & Law Clerks"
+      "Introduction to Employment Law"
     ]
   },
   {
-    "objectID": "presentations/law-student-employment-revealjs.html#title-ix",
-    "href": "presentations/law-student-employment-revealjs.html#title-ix",
-    "title": "Know Your Rights",
-    "section": "Title IX",
-    "text": "Title IX\n\nNo person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance.",
+    "objectID": "presentations/employment-law.html#limits-on-employer-control",
+    "href": "presentations/employment-law.html#limits-on-employer-control",
+    "title": "Employment Law:",
+    "section": "Limits on Employer Control",
+    "text": "Limits on Employer Control\nThe scope and exercise of employer control are limited only by specific exceptions or conditions imposed by law.\nThese include laws regulating terms and conditions of employment and laws protecting against discharge or other adverse employment action for particular reasons.",
     "crumbs": [
       "Contents",
-      "Law Student Residents, Interns, & Law Clerks"
+      "Introduction to Employment Law"
     ]
   },
   {
-    "objectID": "presentations/law-student-employment-revealjs.html#confidentiality-conflicts-of-interest",
-    "href": "presentations/law-student-employment-revealjs.html#confidentiality-conflicts-of-interest",
-    "title": "Know Your Rights",
-    "section": "Confidentiality & Conflicts of Interest",
-    "text": "Confidentiality & Conflicts of Interest",
+    "objectID": "presentations/employment-law.html#cases",
+    "href": "presentations/employment-law.html#cases",
+    "title": "Employment Law:",
+    "section": "Cases",
+    "text": "Cases",
     "crumbs": [
       "Contents",
-      "Law Student Residents, Interns, & Law Clerks"
+      "Introduction to Employment Law"
+    ]
+  },
+  {
+    "objectID": "presentations/employment-law.html#discussion-problem",
+    "href": "presentations/employment-law.html#discussion-problem",
+    "title": "Employment Law:",
+    "section": "Discussion Problem",
+    "text": "Discussion Problem",
+    "crumbs": [
+      "Contents",
+      "Introduction to Employment Law"
+    ]
+  },
+  {
+    "objectID": "presentations/employment-law.html#further-reading",
+    "href": "presentations/employment-law.html#further-reading",
+    "title": "Employment Law:",
+    "section": "Further Reading",
+    "text": "Further Reading\nAnderson, Elizabeth. Private Government: How Employers Rule Our Lives (and Why We Don’t Talk about It). Princeton University Press, 2017.\nBraverman, Harry. Labor and Monopoly Capital: The Degradation of Work in the Twentieth Century. Monthly Review Press, 1974.\nOrren, Karen. Belated Feudalism: Labor, the Law, and Liberal Development in the United States. Cambridge University Press, 1991.",
+    "crumbs": [
+      "Contents",
+      "Introduction to Employment Law"
     ]
   }
 ]
