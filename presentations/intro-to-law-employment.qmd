@@ -57,29 +57,28 @@ The at-will presumption is supposed to work both ways:
 - The employee is likewise free to quit at any time without needing a good reason. 
 - No requirement that either party give advance notice. 
 
-### Barriers to Employee Exit 
+### Constraints on Employee Mobility 
 
-Employers have adopted various strategies that restrain or deter employees from quitting: 
+In practice, employees are often restrained or deterred from exercising their right to quit. 
 
-- Non-compete agreements 
-- [Training repayment obligations](https://www.emfink.net/ElonLaw/assets/pdf/Fink2018.pdf)
-- No-poaching agreements 
-
-These employer strategies contribute to [labor market monopsony](https://www.hamiltonproject.org/assets/files/protecting_low_income_workers_from_monopsony_collusion_krueger_posner_pp.pdf).  
+- [Labor market monopsony](https://www.hamiltonproject.org/assets/files/protecting_low_income_workers_from_monopsony_collusion_krueger_posner_pp.pdf)
+- Barriers to exit
+	- Non-compete agreements 
+	- [Training repayment obligations](https://www.emfink.net/ElonLaw/assets/pdf/Fink2018.pdf)
+	- No-poaching agreements 
 
 ## Limits on Employer Control
 
 The scope and exercise of employer control are limited only by specific exceptions or conditions imposed by law. 
 
-These include laws regulating terms and conditions of employment and laws protecting against discharge or other adverse employment action for particular reasons. 
+- Regulation of terms and conditions
+- Protection against discharge or other adverse action for particular reasons
 
 ### Terms and Conditions of Employment 
 
-Examples:
-
-- Fair Labor Standards Act and State Wage Payment Laws 
+- Fair Labor Standards Act; state wage payment laws 
 - Occupational Safety and Health Act 
-- Americans with Disabilities Act1
+- Americans with Disabilities Act
 - National Labor Relations Act 
 
 ### Equal Employment Opportunity 
@@ -91,8 +90,6 @@ Examples:
 Civil Rights Act of 1964, Title VII, 42 U.S.C. § 2000e-2
 
 ### Anti-Retaliation and Whistleblower Protections
-
-Many employment & labor statues include provisions against retaliatory discharge or other adverse employment actions.
 
 > It shall be an unlawful employment practice for an employer to discriminate against any of his employees … because he has opposed any practice made an unlawful employment practice by this subchapter, or because he has made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under this subchapter.
 
