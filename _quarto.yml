@@ -25,8 +25,8 @@ website:
         contents:
         - text: Attorney Advertising
           href: presentations/attorney-advertising.qmd
-        - text: NCBA Fundamentals of Employment Law 
-          href: presentations/ncba-federal-employment-law.qmd
+        - text: "Introduction to Employment Law"
+          href: presentations/intro-to-law-employment.qmd
 
 format:
   html:
