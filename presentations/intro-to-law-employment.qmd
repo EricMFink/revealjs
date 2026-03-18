@@ -99,11 +99,9 @@ Civil Rights Act of 1964, Title VII, 42 U.S.C. § 2000e-3
 
 > Unless otherwise provided by law, it shall be unlawful for any employer or employment agency to refuse to hire, employ or license, or to discharge from employment or otherwise discriminate against an individual in compensation, promotion or terms, conditions or privileges of employment because of:
 > 
-> a\. an individual's political activities outside of working hours, off of the employer's premises and without use of the employer's equipment or other property, if such activities are legal … ;
-> 
-> b\. an individual's legal use of consumable products, including cannabis in accordance with state law, prior to the beginning or after the conclusion of the employee's work hours, and off of the employer's premises and without use of the employer's equipment or other property;
-> 
-> c\. an individual's legal recreational activities, including cannabis in accordance with state law, outside work hours, off of the employer's premises and without use of the employer's equipment or other property;
+> a. an individual's political activities outside of working hours, off of the employer's premises and without use of the employer's equipment or other property, if such activities are legal … ;
+> b. an individual's legal use of consumable products, including cannabis in accordance with state law, prior to the beginning or after the conclusion of the employee's work hours, and off of the employer's premises and without use of the employer's equipment or other property;
+> c. an individual's legal recreational activities, including cannabis in accordance with state law, outside work hours, off of the employer's premises and without use of the employer's equipment or other property;
 
 Discrimination Against the Engagement in Certain Activities, N.Y. Labor Law § 201-d(2)
 
@@ -117,13 +115,10 @@ Discrimination Against the Engagement in Certain Activities, N.Y. Labor Law § 2
 
 > A discharge is wrongful only if:
 > 
-> (a\) it was in retaliation for the employee’s refusal to violate public policy or for reporting a violation of public policy;
-> 
-> (b\) the discharge was not for good cause and the employee had completed the employer’s probationary period of employment;
-> 
-> (c\) the employer materially violated an express provision of its own written personnel policy prior to the discharge, and the violation deprived the employee of a fair and reasonable opportunity to remain in a position of employment with the employer; or
-> 
-> (d\) the employer terminated the employee solely based on the employee’s legal expression of free speech, including but not limited to statements made on social media.
+> (a) it was in retaliation for the employee’s refusal to violate public policy or for reporting a violation of public policy;
+> (b) the discharge was not for good cause and the employee had completed the employer’s probationary period of employment;
+> (c) the employer materially violated an express provision of its own written personnel policy prior to the discharge, and the violation deprived the employee of a fair and reasonable opportunity to remain in a position of employment with the employer; or
+> (d) the employer terminated the employee solely based on the employee’s legal expression of free speech, including but not limited to statements made on social media.
 
 Montana Wrongful Discharge from Employment Act, 39-2-904
 
