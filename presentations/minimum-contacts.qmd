@@ -1,0 +1,34 @@
+---
+title: "Personal Jurisdiction"
+subtitle: How Does the Shoe Fit?
+author: Eric M. Fink
+
+format:
+  metropolis-revealjs: 
+    css: metropolis.css
+    controls: true
+    navigation-mode: vertical
+    incremental: true
+    slide-level: 3
+    output-file: minimum-contacts-revealjs.html
+---
+
+## McGee v. International Life Insurance Co., 355 U.S. 220 (1957) 
+
+> In 1944, Lowell Franklin, a resident of California, purchased a life insurance policy from the Empire Mutual Insurance Company, an Arizona corporation. In 1948 [International Life Insurance Co.] agreed with Empire Mutual to assume its insurance obligations. [International] then mailed a reinsurance certificate to Franklin in California offering to insure him in accordance with the terms of the policy he held with Empire Mutual. He accepted this offer and from that time until his death in 1950 paid premiums by mail from his California home to [International's] Texas office. [Lulu McGee], Franklin's mother, was the beneficiary under the policy. She sent proofs of his death to the respondent but it refused to pay claiming that he had committed suicide. It appears that neither Empire Mutual nor [International] has ever had any office or agent in California. And so far as the record before us shows, [International] has never solicited or done any insurance business in California apart from the policy involved here.
+
+McGee sued International in California court, serving International by mail at its office in Texas. The court entered judgment in her favor.
+
+> Unable to collect the judgment in California petitioner went to Texas where she filed suit on the judgment in a Texas court. But the Texas courts refused to enforce her judgment holding it was void under the Fourteenth Amendment because service of process outside California could not give the courts of that State jurisdiction over respondent.
+
+## Asahi Metal Industry v. Superior Court of California, 480 U.S. 102 (1987) 
+
+> On September 23, 1978, on Interstate Highway 80 in Solano County, California, Gary Zurcher lost control of his Honda motorcycle and collided with a tractor. Zurcher was severely injured, and his passenger and wife, Ruth Ann Moreno, was killed. In September 1979, Zurcher filed a product liability action in the Superior Court of the State of California in and for the County of Solano. Zurcher alleged that the 1978 accident was caused by a sudden loss of air and an explosion in the rear tire of the motorcycle, and alleged that the motorcycle tire, tube, and sealant were defective. Zurcher's complaint named, _inter alia,_ Cheng Shin Rubber Industrial Co., Ltd. (Cheng Shin), the Taiwanese manufacturer of the tube. Cheng Shin in turn filed a cross-complaint seeking indemnification from its codefendants and from petitioner, Asahi Metal Industry Co., Ltd. (Asahi), the manufacturer of the tube's valve assembly. Zurcher's claims against Cheng Shin and the other defendants were eventually settled and dismissed, leaving only Cheng Shin's indemnity action against Asahi.
+
+*** 
+
+> Asahi is a Japanese corporation. It manufactures tire valve assemblies in Japan and sells the assemblies to Cheng Shin, and to several other tire manufacturers, for use as components in finished tire tubes. Asahi's sales to Cheng Shin took place in Taiwan. The shipments from Asahi to Cheng Shin were sent from Japan to Taiwan. Cheng Shin bought and incorporated into its tire tubes 150,000 Asahi valve assemblies in 1978; 500,000 in 1979; 500,000 in 1980; 100,000 in 1981; and 100,000 in 1982. Sales to Cheng Shin accounted for 1.24 percent of Asahi's income in 1981 and 0.44 percent in 1982. Cheng Shin alleged that approximately 20 percent of its sales in the United States are in California. Cheng Shin purchases valve assemblies from other suppliers as well, and sells finished tubes throughout the world.
+
+*** 
+
+> [A]n informal examination of the valve stems of the tire tubes sold in one cycle store in Solano County [found] that of the approximately 115 tire tubes in the store, 97 were purportedly manufactured in Japan or Taiwan, and of those 97, 21 valve stems were marked with the circled letter "A", apparently Asahi's trademark. Of the 21 Asahi valve stems, 12 were incorporated into Cheng Shin tire tubes. The store contained 41 other Cheng Shin tubes that incorporated the valve assemblies of other manufacturers. [A] manager of Cheng Shin whose duties included the purchasing of component parts stated: "In discussions with Asahi regarding the purchase of valve stem assemblies the fact that my Company sells tubes throughout the world and specifically the United States has been discussed. I am informed and believe that Asahi was fully aware that valve stem assemblies sold to my Company and to others would end up throughout the United States and in California." [T]he president of Asahi, on the other hand, declared that Asahi "has never contemplated that its limited sales of tire valves to Cheng Shin in Taiwan would subject it to lawsuits in California." The record does not include any contract between Cheng Shin and Asahi.
