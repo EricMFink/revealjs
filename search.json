@@ -39,21 +39,33 @@
     "href": "presentations/ncba-federal-employment-law-revealjs.html#statutes",
     "title": "Federal Employment Law",
     "section": "Statutes",
-    "text": "Statutes\n\nEqual Employment Opportunity\n\nCivil Rights Act of 1964, Title VII\nAge Discrimination in Employment Act\nAmericans with Disabilities Act\nGINA\nFamily & Medical Leave Act\n\nWages & Hours\n\nFair Labor Standards Act"
+    "text": "Statutes\n\nEqual Employment Opportunity\n\nCivil Rights Act of 1964, Title VII\nAge Discrimination in Employment Act\nAmericans with Disabilities Act\nGINA\nFamily & Medical Leave Act\n\nWages & Hours\n\nFair Labor Standards Act",
+    "crumbs": [
+      "Employment Law",
+      "Federal Employment Statutes"
+    ]
   },
   {
     "objectID": "presentations/ncba-federal-employment-law-revealjs.html#coverage",
     "href": "presentations/ncba-federal-employment-law-revealjs.html#coverage",
     "title": "Federal Employment Law",
     "section": "Coverage",
-    "text": "Coverage"
+    "text": "Coverage",
+    "crumbs": [
+      "Employment Law",
+      "Federal Employment Statutes"
+    ]
   },
   {
     "objectID": "presentations/ncba-federal-employment-law-revealjs.html#title-vii-1",
     "href": "presentations/ncba-federal-employment-law-revealjs.html#title-vii-1",
     "title": "Federal Employment Law",
     "section": "Title VII",
-    "text": "Title VII"
+    "text": "Title VII",
+    "crumbs": [
+      "Employment Law",
+      "Federal Employment Statutes"
+    ]
   },
   {
     "objectID": "assets/CC Licenses.html",
@@ -69,7 +81,7 @@
     "section": "Life’s Short",
     "text": "Life’s Short",
     "crumbs": [
-      "Contents",
+      "Professional Responsibility",
       "Attorney Advertising"
     ]
   },
@@ -80,7 +92,7 @@
     "section": "Cupid, Draw Back Your Bow",
     "text": "Cupid, Draw Back Your Bow",
     "crumbs": [
-      "Contents",
+      "Professional Responsibility",
       "Attorney Advertising"
     ]
   },
@@ -91,7 +103,7 @@
     "section": "Surprise!",
     "text": "Surprise!",
     "crumbs": [
-      "Contents",
+      "Professional Responsibility",
       "Attorney Advertising"
     ]
   },
@@ -102,7 +114,7 @@
     "section": "Modesty Will Get You Nowhere",
     "text": "Modesty Will Get You Nowhere",
     "crumbs": [
-      "Contents",
+      "Professional Responsibility",
       "Attorney Advertising"
     ]
   },
@@ -113,7 +125,7 @@
     "section": "Tell Us How You Really Feel",
     "text": "Tell Us How You Really Feel",
     "crumbs": [
-      "Contents",
+      "Professional Responsibility",
       "Attorney Advertising"
     ]
   },
@@ -124,7 +136,7 @@
     "section": "What’s in a Name?",
     "text": "What’s in a Name?",
     "crumbs": [
-      "Contents",
+      "Professional Responsibility",
       "Attorney Advertising"
     ]
   },
@@ -135,7 +147,7 @@
     "section": "Don’t Mess with Texas",
     "text": "Don’t Mess with Texas",
     "crumbs": [
-      "Contents",
+      "Professional Responsibility",
       "Attorney Advertising"
     ]
   },
@@ -146,7 +158,7 @@
     "section": "Machete",
     "text": "Machete",
     "crumbs": [
-      "Contents",
+      "Professional Responsibility",
       "Attorney Advertising"
     ]
   },
@@ -157,7 +169,7 @@
     "section": "Thanks Dan!",
     "text": "Thanks Dan!",
     "crumbs": [
-      "Contents",
+      "Professional Responsibility",
       "Attorney Advertising"
     ]
   },
@@ -168,7 +180,7 @@
     "section": "Want to See More?",
     "text": "Want to See More?\nLawyer Advertising on YouTube",
     "crumbs": [
-      "Contents",
+      "Professional Responsibility",
       "Attorney Advertising"
     ]
   },
@@ -177,14 +189,22 @@
     "href": "presentations/minimum-contacts-revealjs.html#mcgee-v.-international-life-insurance-co.-355-u.s.-220-1957",
     "title": "Personal Jurisdiction",
     "section": "McGee v. International Life Insurance Co., 355 U.S. 220 (1957)",
-    "text": "McGee v. International Life Insurance Co., 355 U.S. 220 (1957)\n\nIn 1944, Lowell Franklin, a resident of California, purchased a life insurance policy from the Empire Mutual Insurance Company, an Arizona corporation. In 1948 [International Life Insurance Co.] agreed with Empire Mutual to assume its insurance obligations. [International] then mailed a reinsurance certificate to Franklin in California offering to insure him in accordance with the terms of the policy he held with Empire Mutual. He accepted this offer and from that time until his death in 1950 paid premiums by mail from his California home to [International’s] Texas office. [Lulu McGee], Franklin’s mother, was the beneficiary under the policy. She sent proofs of his death to the respondent but it refused to pay claiming that he had committed suicide. It appears that neither Empire Mutual nor [International] has ever had any office or agent in California. And so far as the record before us shows, [International] has never solicited or done any insurance business in California apart from the policy involved here.\n\nMcGee sued International in California court, serving International by mail at its office in Texas. The court entered judgment in her favor.\n\nUnable to collect the judgment in California petitioner went to Texas where she filed suit on the judgment in a Texas court. But the Texas courts refused to enforce her judgment holding it was void under the Fourteenth Amendment because service of process outside California could not give the courts of that State jurisdiction over respondent."
+    "text": "McGee v. International Life Insurance Co., 355 U.S. 220 (1957)\n\nIn 1944, Lowell Franklin, a resident of California, purchased a life insurance policy from the Empire Mutual Insurance Company, an Arizona corporation. In 1948 [International Life Insurance Co.] agreed with Empire Mutual to assume its insurance obligations. [International] then mailed a reinsurance certificate to Franklin in California offering to insure him in accordance with the terms of the policy he held with Empire Mutual. He accepted this offer and from that time until his death in 1950 paid premiums by mail from his California home to [International’s] Texas office. [Lulu McGee], Franklin’s mother, was the beneficiary under the policy. She sent proofs of his death to the respondent but it refused to pay claiming that he had committed suicide. It appears that neither Empire Mutual nor [International] has ever had any office or agent in California. And so far as the record before us shows, [International] has never solicited or done any insurance business in California apart from the policy involved here.\n\nMcGee sued International in California court, serving International by mail at its office in Texas. The court entered judgment in her favor.\n\nUnable to collect the judgment in California petitioner went to Texas where she filed suit on the judgment in a Texas court. But the Texas courts refused to enforce her judgment holding it was void under the Fourteenth Amendment because service of process outside California could not give the courts of that State jurisdiction over respondent.",
+    "crumbs": [
+      "Civil Procedure",
+      "Personal Jurisdiction"
+    ]
   },
   {
     "objectID": "presentations/minimum-contacts-revealjs.html#asahi-metal-industry-v.-superior-court-of-california-480-u.s.-102-1987",
     "href": "presentations/minimum-contacts-revealjs.html#asahi-metal-industry-v.-superior-court-of-california-480-u.s.-102-1987",
     "title": "Personal Jurisdiction",
     "section": "Asahi Metal Industry v. Superior Court of California, 480 U.S. 102 (1987)",
-    "text": "Asahi Metal Industry v. Superior Court of California, 480 U.S. 102 (1987)\n\nOn September 23, 1978, on Interstate Highway 80 in Solano County, California, Gary Zurcher lost control of his Honda motorcycle and collided with a tractor. Zurcher was severely injured, and his passenger and wife, Ruth Ann Moreno, was killed. In September 1979, Zurcher filed a product liability action in the Superior Court of the State of California in and for the County of Solano. Zurcher alleged that the 1978 accident was caused by a sudden loss of air and an explosion in the rear tire of the motorcycle, and alleged that the motorcycle tire, tube, and sealant were defective. Zurcher’s complaint named, inter alia, Cheng Shin Rubber Industrial Co., Ltd. (Cheng Shin), the Taiwanese manufacturer of the tube. Cheng Shin in turn filed a cross-complaint seeking indemnification from its codefendants and from petitioner, Asahi Metal Industry Co., Ltd. (Asahi), the manufacturer of the tube’s valve assembly. Zurcher’s claims against Cheng Shin and the other defendants were eventually settled and dismissed, leaving only Cheng Shin’s indemnity action against Asahi."
+    "text": "Asahi Metal Industry v. Superior Court of California, 480 U.S. 102 (1987)\n\nOn September 23, 1978, on Interstate Highway 80 in Solano County, California, Gary Zurcher lost control of his Honda motorcycle and collided with a tractor. Zurcher was severely injured, and his passenger and wife, Ruth Ann Moreno, was killed. In September 1979, Zurcher filed a product liability action in the Superior Court of the State of California in and for the County of Solano. Zurcher alleged that the 1978 accident was caused by a sudden loss of air and an explosion in the rear tire of the motorcycle, and alleged that the motorcycle tire, tube, and sealant were defective. Zurcher’s complaint named, inter alia, Cheng Shin Rubber Industrial Co., Ltd. (Cheng Shin), the Taiwanese manufacturer of the tube. Cheng Shin in turn filed a cross-complaint seeking indemnification from its codefendants and from petitioner, Asahi Metal Industry Co., Ltd. (Asahi), the manufacturer of the tube’s valve assembly. Zurcher’s claims against Cheng Shin and the other defendants were eventually settled and dismissed, leaving only Cheng Shin’s indemnity action against Asahi.",
+    "crumbs": [
+      "Civil Procedure",
+      "Personal Jurisdiction"
+    ]
   },
   {
     "objectID": "presentations/employment-law.html#employment-as-private-government",
@@ -193,8 +213,8 @@
     "section": "Employment as Private Government",
     "text": "Employment as Private Government\n\nImagine a government that assigns almost everyone a superior whom they must obey. Although superiors give most inferiors a routine to follow, there is no rule of law. Orders may be arbitrary and can change at any time, without prior notice or opportunity to appeal. Superiors are unaccountable to those they order around. They are neither elected nor removable by their inferiors. Inferiors have no right to complain in court about how they are being treated, except in a few narrowly defined cases. They also have no right to be consulted about the orders they are given.\n\nElizabeth Anderson, Private Government: How Employers Rule Our Lives (and Why We Don’t Talk about It)",
     "crumbs": [
-      "Contents",
-      "Introduction to Employment Law"
+      "Employment Law",
+      "Intro to Employment Law"
     ]
   },
   {
@@ -204,8 +224,8 @@
     "section": "The Employment Relationship",
     "text": "The Employment Relationship",
     "crumbs": [
-      "Contents",
-      "Introduction to Employment Law"
+      "Employment Law",
+      "Intro to Employment Law"
     ]
   },
   {
@@ -215,8 +235,8 @@
     "section": "Termination of Employment",
     "text": "Termination of Employment",
     "crumbs": [
-      "Contents",
-      "Introduction to Employment Law"
+      "Employment Law",
+      "Intro to Employment Law"
     ]
   },
   {
@@ -226,8 +246,8 @@
     "section": "Limits on Employer Control",
     "text": "Limits on Employer Control\nThe scope and exercise of employer control are limited only by specific exceptions or conditions imposed by law.\n\nRegulation of terms and conditions\nProtection against discharge or other adverse action for particular reasons",
     "crumbs": [
-      "Contents",
-      "Introduction to Employment Law"
+      "Employment Law",
+      "Intro to Employment Law"
     ]
   },
   {
@@ -237,8 +257,8 @@
     "section": "Cases",
     "text": "Cases",
     "crumbs": [
-      "Contents",
-      "Introduction to Employment Law"
+      "Employment Law",
+      "Intro to Employment Law"
     ]
   },
   {
@@ -248,8 +268,8 @@
     "section": "Discussion Problem",
     "text": "Discussion Problem",
     "crumbs": [
-      "Contents",
-      "Introduction to Employment Law"
+      "Employment Law",
+      "Intro to Employment Law"
     ]
   },
   {
@@ -259,8 +279,8 @@
     "section": "Further Reading",
     "text": "Further Reading\nAnderson, Elizabeth. Private Government: How Employers Rule Our Lives (and Why We Don’t Talk about It). Princeton University Press, 2017.\nBraverman, Harry. Labor and Monopoly Capital: The Degradation of Work in the Twentieth Century. Monthly Review Press, 1974.\nOrren, Karen. Belated Feudalism: Labor, the Law, and Liberal Development in the United States. Cambridge University Press, 1991.",
     "crumbs": [
-      "Contents",
-      "Introduction to Employment Law"
+      "Employment Law",
+      "Intro to Employment Law"
     ]
   }
 ]
