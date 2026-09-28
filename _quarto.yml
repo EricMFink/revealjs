@@ -21,12 +21,21 @@ website:
     contents: 
       - href: index.qmd
         text: Home
-      - section: Contents
+      - section: Civil Procedure
+        contents:
+        - text: Personal Jurisdiction
+          href: presentations/personal-jurisdiction.qmd
+      - section: Professional Responsibility
         contents:
         - text: Attorney Advertising
           href: presentations/attorney-advertising.qmd
-        - text: "Introduction to Employment Law"
+      - section: Employment Law
+        contents:
+        - text: Intro to Employment Law
           href: presentations/intro-to-law-employment.qmd
+        - text: Federal Employment Statutes
+          href: presentations/ncba-federal-employment-law.qmd
+
 
 format:
   html:
